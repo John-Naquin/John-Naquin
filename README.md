@@ -2,10 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=John-Naquin)
 
-## About Me
-
-I'm a Data Scientist and Software Developer with a bachelor's in Computer Science. I am currently pursuing my master's in Data Science. I am passionate about both tech and space. 🌎
-
 ## 🛠️ Technologies & Tools
 
 ### Software/Web Development
