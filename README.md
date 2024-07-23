@@ -32,6 +32,7 @@
 
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.johnnaquin.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-naquin)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://1drv.ms/b/c/24bcd1f502d345be/EXoXOpQLuZFGhQRaC9INc1QBLBdos3qhJeQtd-UgH08oeA?e=9DRedE)
 
 ## Codewars Badge
 
