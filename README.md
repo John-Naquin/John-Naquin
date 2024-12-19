@@ -6,7 +6,6 @@
 
 ### Software/Data Dev
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-005596?style=for-the-badge&logo=sas&logoColor=white)
@@ -35,7 +34,7 @@
 
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.johnnaquin.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-naquin)
-[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://1drv.ms/b/c/24bcd1f502d345be/EXoXOpQLuZFGhQRaC9INc1QBLBdos3qhJeQtd-UgH08oeA?e=9DRedE)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://1drv.ms/b/c/24bcd1f502d345be/ERpU9o8h-zxNvec1jaUcc9gBpp_Uau5pFRzxxtA49ZR0Pg?e=o4ILhP)
 
 ## Codewars Badge
 
